@@ -1,4 +1,7 @@
-# HRM - Human Resource Management
+# HRM for Mobile Web Ghana
+An Employee manage system for Mobile Web Ghana
+
+
 Laravel 5.6 version is used to create the HRM system. The purpose of this system is to effectively manage HR. Each module performs a separate function within the HRM that helps with information gathering or tracking. HRM modules can assist with:
 1. Employee Management
 2. Leave Management
